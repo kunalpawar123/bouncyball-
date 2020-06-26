@@ -2,7 +2,7 @@
   "name": "bouncy-ball",
   "version": "0.0.0",
   "devDependencies": {
-    "eslint": "^1.6.0",
+    "eslint": "^7.3.1",
     "grunt": "~0.4.1",
     "grunt-contrib-clean": "^0.7.0",
     "grunt-contrib-concat": "^0.5.1",
